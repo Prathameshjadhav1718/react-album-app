@@ -1,0 +1,16 @@
+
+.home {
+    position: absolute;
+    left: 24%;
+    top: 40%;
+    color: gold;
+  }
+
+  h1{
+    text-align: center;
+    font-size:75px;
+  }
+
+  h2{
+    color: goldenrod;
+  }

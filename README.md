@@ -1,4 +1,4 @@
-PROJECT LINK : https://prathameshjadhav1718-react-album.vercel.app/
+PROJECT LINK : https://prathameshjadhav1718-react-album-app.vercel.app/
 
 🚀Fetch and show albums from the api - https://jsonplaceholder.typicode.com/albums
 
